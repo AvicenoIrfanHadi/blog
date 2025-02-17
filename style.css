@@ -1,0 +1,19 @@
+.sect1 {
+	background-color: #372414;
+}
+
+.sect2 {
+	background-color: #f7ebdf;
+}
+
+.sect3 {
+	background-color: #b7a087;
+}
+
+.sect3 {
+	background-color: #825a3c;
+}
+
+.card, img {
+	border-radius: 0;
+}
